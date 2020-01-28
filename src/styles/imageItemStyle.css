@@ -1,0 +1,25 @@
+.image-item {
+    background: #FFF;
+    transition: 0.1s all ease-in;
+}
+
+.image-item:hover {
+    background: #E2F2F2;
+}
+
+.image-item .overlay:hover {
+    background: #9164c878;
+}
+
+.image-item .overlay {
+    transition: 0.1s all ease-in;
+}
+
+.avatar {
+    background: #E2F2F2;
+    transition: 0.2s all ease-in;
+}
+
+.image-item:hover > .avatar {
+    background: #FFF;
+}
