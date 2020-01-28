@@ -1,13 +1,13 @@
 # Image Selector
 Simple and intuitive UI for selecting and ordering a list of images.
 
-![](https://github.com/DumindaWijesinghe/image_selector.git)
+![](https://github.com/DumindaWijesinghe/image_selector/blob/master/src/images/screen1.gif)
 
 ### Start the app in developer mode
 
 ```
 git clone https://github.com/DumindaWijesinghe/image_selector.git
-cd 
+cd image_selector
 npm install
 npm start
 ```
